@@ -53,7 +53,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://i.ebayimg.com/images/g/sa8AAeSwakNotF-Z/s-l1200.jpg" # Link to the webpage to redirect to 
+        "page": "https://postimg.cc/0M9xMZM8" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
